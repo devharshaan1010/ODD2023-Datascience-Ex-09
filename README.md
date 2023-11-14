@@ -19,8 +19,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-Name: Aaron Dominic
-Reg : 212221040001
+Name: decharshaan s
+Reg : 212221040035
 
 import seaborn as sns
 import matplotlib.pyplot as plt
